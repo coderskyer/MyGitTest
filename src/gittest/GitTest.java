@@ -14,4 +14,7 @@ public class GitTest {
        System.out.println("The moment is here and then");
     }
     
+    public void SayHi(){
+        
+    }
 }
